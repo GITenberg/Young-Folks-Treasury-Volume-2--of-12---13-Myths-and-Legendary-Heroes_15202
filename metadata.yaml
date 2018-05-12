@@ -1,0 +1,32 @@
+_repo: Young-Folks-Treasury-Volume-2--of-12---13-Myths-and-Legendary-Heroes_15202
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology'
+- !lcc 'PZ'
+- !lcc 'BL'
+- !lcsh 'Legends'
+- !lcsh 'Heroes'
+title: "Young Folks' Treasury, Volume 2 (of 12)\r\nMyths and Legendary Heroes"
+url: http://www.gutenberg.org/ebooks/15202
